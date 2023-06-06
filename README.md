@@ -1,4 +1,4 @@
-# ToDo_List
+# ToDo_List  [![Netlify Status](https://api.netlify.com/api/v1/badges/1654395f-d062-4854-aef1-6ca12b9e5763/deploy-status)](https://app.netlify.com/sites/todo-list-subha5/deploys)
 A simple Todo list created using React and simple Hooks (useState and useEffect).
 
 
